@@ -720,7 +720,7 @@ GameObject:
   - component: {fileID: 676068808}
   - component: {fileID: 676068809}
   m_Layer: 6
-  m_Name: Square
+  m_Name: SquareIcon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
